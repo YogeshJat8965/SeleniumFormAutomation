@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1noJkYSfphbyALTL2xIKMaDkzCeCHugItYtxeN5je4PjWEND3p25kFOkrhBDXXiYixMHwD1iYfH8lRvY+VuKg==",
+  "success": true,
+  "projectFilePath": "/home/yogesh/Desktop/task/TaskApp/TaskApp.csproj",
+  "expectedPackageFiles": [
+    "/home/yogesh/.nuget/packages/selenium.support/4.31.0/selenium.support.4.31.0.nupkg.sha512",
+    "/home/yogesh/.nuget/packages/selenium.webdriver/4.31.0/selenium.webdriver.4.31.0.nupkg.sha512",
+    "/home/yogesh/.nuget/packages/selenium.webdriver.chromedriver/135.0.7049.4200/selenium.webdriver.chromedriver.135.0.7049.4200.nupkg.sha512"
+  ],
+  "logs": []
+}
